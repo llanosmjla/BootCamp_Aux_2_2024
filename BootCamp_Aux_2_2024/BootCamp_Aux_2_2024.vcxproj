@@ -128,7 +128,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BootCamp_Aux_2_2024.cpp" />
+    <ClCompile Include="CuentaBancaria.cpp" />
+    <ClCompile Include="Dibujador.cpp" />
+    <ClCompile Include="Impresora.cpp" />
+    <ClCompile Include="Manejador.cpp" />
+    <ClCompile Include="Persona.cpp" />
     <ClCompile Include="Punteros_Referencias.cpp" />
+    <ClCompile Include="Digito.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dibujador.h" />
+    <ClInclude Include="Digito.h" />
+    <ClInclude Include="Manejador.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

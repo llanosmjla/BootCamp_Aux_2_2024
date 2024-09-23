@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int main() {
+/*int main() {
 
 
 	//Referencia & es una operador de referencia o direccion 
@@ -23,7 +23,7 @@ int main() {
 	cout << "------------------------------"<<endl;
 	cout << "Variable 1: " << variable1 <<endl;// 50
 	cout << "Variable 3: " << variable3 <<endl;// 50
-	cout << "------------------------------"<<endl;*/
+	cout << "------------------------------"<<endl;
 
 
 	//Punteros
@@ -59,7 +59,7 @@ int main() {
 	cout << "Puntero a Varibale 4, Valor : " << *puntero << endl;
 	cout << "Puntero A Variable 4, Direccion de Memeoria : " << puntero << endl;
 
-	//delete puntero;//Elimianr puntero*/
+	//delete puntero;//Elimianr puntero
 
 
 
@@ -69,4 +69,4 @@ int main() {
 
 	return 0;
 }
-
+*/
