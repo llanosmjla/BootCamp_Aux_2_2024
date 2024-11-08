@@ -31,6 +31,9 @@
     <Filter Include="Source Files\Herencia">
       <UniqueIdentifier>{8a5f0300-9e2d-4017-a248-6e3cd340ad19}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\2Parcial">
+      <UniqueIdentifier>{db522b3c-c696-4832-a2fc-e561cb31cff6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BootCamp_Aux_2_2024.cpp">
@@ -56,6 +59,12 @@
     </ClCompile>
     <ClCompile Include="Persona.cpp">
       <Filter>Source Files\Herencia</Filter>
+    </ClCompile>
+    <ClCompile Include="Ejemplos.cpp">
+      <Filter>Source Files\2Parcial</Filter>
+    </ClCompile>
+    <ClCompile Include="Practica.cpp">
+      <Filter>Source Files\2Parcial</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

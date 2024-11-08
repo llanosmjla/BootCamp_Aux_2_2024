@@ -59,13 +59,13 @@ public:
 };
 
 
-int main() {
-	Estudiante e1("Juan", "123", 20, 80);
-	e1.verInfo();
-
-	Docente d1("Pedro", "456");
-
-	d1.verInfo();
-	return 0;
-}
+//int main() {
+//	Estudiante e1("Juan", "123", 20, 80);
+//	e1.verInfo();
+//
+//	Docente d1("Pedro", "456");
+//
+//	d1.verInfo();
+//	return 0;
+//}
 

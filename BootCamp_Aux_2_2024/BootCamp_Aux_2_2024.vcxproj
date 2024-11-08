@@ -130,9 +130,11 @@
     <ClCompile Include="BootCamp_Aux_2_2024.cpp" />
     <ClCompile Include="CuentaBancaria.cpp" />
     <ClCompile Include="Dibujador.cpp" />
+    <ClCompile Include="Ejemplos.cpp" />
     <ClCompile Include="Impresora.cpp" />
     <ClCompile Include="Manejador.cpp" />
     <ClCompile Include="Persona.cpp" />
+    <ClCompile Include="Practica.cpp" />
     <ClCompile Include="Punteros_Referencias.cpp" />
     <ClCompile Include="Digito.cpp" />
   </ItemGroup>
