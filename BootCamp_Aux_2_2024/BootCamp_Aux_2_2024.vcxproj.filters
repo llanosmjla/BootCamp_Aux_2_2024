@@ -66,6 +66,12 @@
     <ClCompile Include="Practica.cpp">
       <Filter>Source Files\2Parcial</Filter>
     </ClCompile>
+    <ClCompile Include="tarea.cpp">
+      <Filter>Source Files\2Parcial</Filter>
+    </ClCompile>
+    <ClCompile Include="2parcials.cpp">
+      <Filter>Source Files\2Parcial</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Digito.h">

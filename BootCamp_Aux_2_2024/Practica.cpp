@@ -81,12 +81,10 @@ public:
 			cout << paradas[i]->nombre << endl;
 		}
 	}
-
-
 };
 
 
-int main() {
+/*int main() {
 	/*vector <Parada*> paradas;
 	paradas.push_back(new Parada("Parada A", 0, 0));
 	paradas.push_back(new Parada("Parada B", 0, 0));
@@ -106,7 +104,7 @@ int main() {
 
 	bus1.enParada(0, 0); // en la paradas C
 
-	bus1.verInfo();*/
+	bus1.verInfo();
 
 	vector <int> numeros;
 
@@ -123,6 +121,7 @@ int main() {
 
 
 	cout << "Capacidad del vector: " << numeros.capacity() << endl;
+
 	int numeroAElimianr = 4;
 
 	for (auto i = numeros.begin(); i != numeros.end(); i++) {
@@ -134,16 +133,24 @@ int main() {
 
 	cout << "-------------------" << endl;
 
-	for (int numero : numeros) {
-		cout << numero << endl;
+	if (numeros.empty()) {
+		cout << "El vector esta vacio" << endl;
 	}
+	else {
+		for (int numero : numeros) {
+			cout << numero << endl;
+		}
+	}
+	
+
+
 	/*
 	cout << "-------------------" << endl;
 	numeros.pop_back();
 
 	for (int numero : numeros) {
 		cout << numero << endl;
-	}*/
+	}
 
 	return 0;
-}
+}*/

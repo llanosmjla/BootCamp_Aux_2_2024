@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2parcials.cpp" />
     <ClCompile Include="BootCamp_Aux_2_2024.cpp" />
     <ClCompile Include="CuentaBancaria.cpp" />
     <ClCompile Include="Dibujador.cpp" />
@@ -137,6 +138,7 @@
     <ClCompile Include="Practica.cpp" />
     <ClCompile Include="Punteros_Referencias.cpp" />
     <ClCompile Include="Digito.cpp" />
+    <ClCompile Include="tarea.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dibujador.h" />
